@@ -1,3 +1,1 @@
-z6wXBNFaTtE
-https://www.youtube.com/watch?v=NCKMMzVn1c8
-TQQPAU21ZUw
+# 将 YouTube 视频 URL 逐行粘贴到这里，然后复制到你 Fork 后的 GitHub 仓库。
